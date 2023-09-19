@@ -1,0 +1,2 @@
+# JSCode
+javascript practice
